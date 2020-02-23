@@ -12,7 +12,7 @@ Vector-borne illnesses are difficult and nasty to combat due to the inherent nat
 
 ### Annotations
 
-##### 1. Jeefoo, P., Tripathi, N. K., & Souris, M. (2010). Spatio-Temporal Diffusion Pattern and Hotspot Detection of Dengue in Chachoengsao Province, Thailand. International Journal of Environmental Research and Public Health, 8(1), 51–74. doi: 10.3390/ijerph8010051
+#### 1. Jeefoo, P., Tripathi, N. K., & Souris, M. (2010). Spatio-Temporal Diffusion Pattern and Hotspot Detection of Dengue in Chachoengsao Province, Thailand. International Journal of Environmental Research and Public Health, 8(1), 51–74. doi: 10.3390/ijerph8010051
 
 In this journal, Jeefoo et al seeked to examine diffusion patterns and hotspot identification for reported dengue cases. Like malaria, dengue is a vector-borne illness that is spread by mosquitoes. However, it is more contagious due to the fact that dengue can be spread through human interactions, unlike malaria. As such, it has continued to infect more and upward trends in incidence for the past 50 years. Because dengue primarily exists in warm, tropical countries, Thailand has shown to be one of the more infected countries. In 2008, the total numbers of reported cases of dengue infections in Thailand were 43,911, with 46 deaths nationwide.
 
@@ -24,7 +24,7 @@ The researchers drew many valuable pieces conclusions from the analysis. From 19
 
 Thanks to recent advances in GIS technology, Jeefoo et al were able to better see and track dengue cases in Chachoengsao province. Dengue spatio-temporal diffusion patterns and hotspot detection are crucial in tracking and seeing patterns in dengue cases. This means better healthcare aid can be given to the areas that need it, and also allow people to better predict when dengue cases will be rising (during the rainy season). Public health officers can save time and costs by being able to better plan on controlling dengue. 
 
-##### 2. Paul, M. C., Goutard, F. L., Roulleau, F., Holl, D., Thanapongtharm, W., Roger, F. L., & Tran, A. (2016). Quantitative assessment of a spatial multicriteria model for highly pathogenic avian influenza H5N1 in Thailand, and application in Cambodia. Scientific reports, 6, 31096. https://doi.org/10.1038/srep31096
+#### 2. Paul, M. C., Goutard, F. L., Roulleau, F., Holl, D., Thanapongtharm, W., Roger, F. L., & Tran, A. (2016). Quantitative assessment of a spatial multicriteria model for highly pathogenic avian influenza H5N1 in Thailand, and application in Cambodia. Scientific reports, 6, 31096. https://doi.org/10.1038/srep31096
 
 The Highly Pathogenic Avian Influenza H5N1 (HPAI) virus is now considered “endemic” in several Asian countries. HPAI H5N1 is spread through poultry, which many lower-middle income countries in Southeast Asia raise in small backyard farms, with close proximity to other livestock and people. Thus, along with little to nonexistent biosecurity measures in place and with unreliable and delayed reports of outbreaks, much of the Cambodian population (73% in total who depend exclusively on livestock and agriculture) are at extreme risk every day. These factors all lead to various outbreaks, and HPAI H5N1 is considered an epidemic in the poultry population of Cambodia. 
 
@@ -34,7 +34,7 @@ Due to the fact that the relatively weak healthcare system in Cambodia lacks rel
 
 The resultant maps and graphs displayed critical information about the suitability for occurrence of HPAI H5N1 in domestic poultry. Various areas (mostly rural) can be seen accounting for the higher densities of poultry. Such mapping is important for the control and combat of future HPAI H5N1 outbreaks as the maps allow for better analysis for areas at risk and where possible humanitarian aid and efforts should be directed to.
 
-##### 3. Cox, J., Sovannaroth, S., Dy Soley, L., Ngor, P., Mellor, S., & Roca-Feltrer, A. (2014). Novel approaches to risk stratification to support malaria elimination: an example from Cambodia. Malaria journal, 13, 371. https://doi.org/10.1186/1475-2875-13-371
+#### 3. Cox, J., Sovannaroth, S., Dy Soley, L., Ngor, P., Mellor, S., & Roca-Feltrer, A. (2014). Novel approaches to risk stratification to support malaria elimination: an example from Cambodia. Malaria journal, 13, 371. https://doi.org/10.1186/1475-2875-13-371
 
 Part of the innovative greatness map-making technologies like GIS systems is the ability to create specialized alternatives. In Map-making On a Budget, Perkel mentions a team of researchers in Antarctica created a free and open-source Antarctic-mapping resource called “Quantarctica”. Such an idea is applied to the study and mapping of malaria: the Malaria Information System (MIS) was developed to “generate” prompt data on temporal and spatial variations in malaria cases reported through public health facilities and village malaria workers (VMWs).
 
@@ -44,7 +44,7 @@ In contrast, MIS seeks to answer this issue by not only taking in data from publ
 
 The importance of the MIS is it allows health officials and researchers to better track malaria in countries that need to get the smaller picture. With VMW data along with the already existing health facility data, the stratification of malaria was a lot more timely, routine, and feasible (thanks to high reporting rates than the existing HMIS in Cambodia. However, there are still limitations. Cox et al mention that this system depends heavily on the collaboration on reporting completeness and timeliness. Reporting lag will leave gaps in data and thus decrease the reliability of the MIS. Despite this, it is hopeful that the MIS will be able to replace currently outdated systems in Cambodia and provide contemporary analysis of malaria to develop strategies for malaria elimination not only for Cambodia as well as many other inflicted nations. 
 
-##### 4. Khilji, S. U. S., Rudge, J. W., Drake, T., Chavez, I., Borin, K., Touch, S., & Coker, R. (2013). Distribution of selected healthcare resources for influenza pandemic response in Cambodia. International Journal for Equity in Health, 12(1), 82. doi: 10.1186/1475-9276-12-82
+#### 4. Khilji, S. U. S., Rudge, J. W., Drake, T., Chavez, I., Borin, K., Touch, S., & Coker, R. (2013). Distribution of selected healthcare resources for influenza pandemic response in Cambodia. International Journal for Equity in Health, 12(1), 82. doi: 10.1186/1475-9276-12-82
 
 Being able to timely distribute health resources to the populations that need it is crucial for fighting and controlling outbreaks. Khilji et al seek to answer this by collecting survey data on available healthcare resources (inpatient beds, nurses, doctors, ventilators, medicine) necessary for treating severe influenza. The researchers want to address the situation that affects many developing countries, and that is the burden of weaker health systems compared to high-income countries. Many lower-middle income countries have poor populations that often have decreased access to healthcare. Specifically, in Cambodia, the poorer rural areas where villages are typically have harder access to developed roads that will lead towards an established healthcare center. 
 
@@ -54,7 +54,7 @@ The results showed that inpatient beds, doctors, and nurses were heavily concent
 
 This data is crucial when considering pandemic influenza response in Cambodia. Inpatient beds can be redistributed into infected areas with low resources quickly thanks to the analysis that located which provinces have low resources. This relates to Amartya Sen’s definition of human development in that every person has personal freedoms. Such freedom includes the right to adequate healthcare, which should be provided when the situation calls for it. Being able to provide doctors and inpatient beds when needed are part of the substantive freedoms people deserve, which thus will allow for a nation to develop better. 
 
-##### 5. Lai, S., Sun, J., Ruktanonchai, N. W., Zhou, S., Yu, J., Routledge, I., … Li, Z. (2019). Changing epidemiology and challenges of malaria in China towards elimination. Malaria Journal, 18(1). doi: 10.1186/s12936-019-2736-8
+#### 5. Lai, S., Sun, J., Ruktanonchai, N. W., Zhou, S., Yu, J., Routledge, I., … Li, Z. (2019). Changing epidemiology and challenges of malaria in China towards elimination. Malaria Journal, 18(1). doi: 10.1186/s12936-019-2736-8
 
 While China isn’t a southeast asian country, it shares borders with a few of them, including Vietnam, Laos, and Myanmar. Thus, it is important to include China in epidemiology and tracking vector borne illnesses, especially as urbanization rapidly increases in China in addition to oversea travels. In this journal, researchers Lai et al not only track malaria domestically, but also analyze how malaria is “imported” into China and the origin of such. 
 
