@@ -9,4 +9,4 @@ Jason Deng
 3. [Barder questions](https://taegonjd.github.io/workshop/barder) (Feb 18)
 ### Formal Papers 
 
-1. [Annotated Bibliography](https://taegonjd.github.io/workshop/assignment1) (Feb 23)
+1. [Annotated Bibliography](https://taegonjd.github.io/workshop/assignment_one) (Feb 23)
