@@ -8,7 +8,6 @@ Jason Deng
 2. [Jahan and Rosling questions](https://taegonjd.github.io/workshop/jahanrosling) (Feb 4)
 3. [Barder questions](https://taegonjd.github.io/workshop/barder) (Feb 18)
 4. [Anderson and Kitchen questions](https://taegonjd.github.io/workshop/andersonkitchen) (Feb 25)
-5. [Stevens questions](https://taegonjd.github.io/workshop/stevens) (Mar 26)
 
 ### Formal Papers 
 
