@@ -1,4 +1,4 @@
-# Index of my work 
+# Index
 
 Jason Deng
 
