@@ -30,7 +30,7 @@ Being able to utilize call data records allow us to receive constant time update
 
 One commonly used spatial interaction model is the gravity model. It is called the gravity model because it is derived from Newton’s Law of Universal Gravitation, which describes how there exists a force that attracts any two objects. This equation also has relevance when it comes to modeling how spatial entities react between each other; in this case, between human mobility and vector-borne diseases. In a generic form, a gravity model states that there is an attraction aij between two entities i and j which is in direct proportion to their “masses” and inversely proportional to the square distance separating them [7]. 
 <p align="center">
-  <img width="250" height="200" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546766/bin/ijerph-09-04346-i001.jpg">
+  <img width="250" height="200" src="https://imgur.com/elMpxy2">
 </p>
 Barrios et al. used such gravity models to estimate the spatial spread of vector-borne illnesses. They looked at nephropathia epidemica (NE) and Lyme borreliosis (LB) in Belgium. The formulation of the gravity model used in their study looked like this: 
 
