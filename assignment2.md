@@ -1,6 +1,6 @@
 # Assignment 2: Literature Review
 
-## Call Data Records and Gravity Models for Improved Epidemiology of Vector-borne Illnesses throughout Southeast Asiap
+## Call Data Records and Gravity Models for Improved Epidemiology of Vector-borne Illnesses throughout Southeast Asia
 
 Jason Deng
 
