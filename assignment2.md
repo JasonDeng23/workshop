@@ -43,10 +43,17 @@ After my research, I feel like I have a better understanding of what agents and 
 ### References
 
 [1] https://www.prb.org/malariabasicsglobalimpactandactions/ cite it
+
 [2]https://www.cdc.gov/malaria/malaria_worldwide/impact.html
+
 [3]  Paul, M. C., Goutard, F. L., Roulleau, F., Holl, D., Thanapongtharm, W., Roger, F. L., & Tran,   A. (2016). Quantitative assessment of a spatial multicriteria model for highly pathogenic avian influenza H5N1 in Thailand, and application in Cambodia. Scientific reports, 6, 31096. https://doi.org/10.1038/srep31096
+
 [4]https://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases
+
 [5] Guyant, P., Canavati, S.E., Chea, N. et al. Malar J 14, 252 (2015). Malaria and the mobile and migrant population in Cambodia: a population movement framework to inform strategies for malaria control and elimination. https://doi.org/10.1186/s12936-015-0773-5
+
 [6]Buckee, C. O., Wesolowski, A., Eagle, N. N., Hansen, E., & Snow, R. W. (2013). Mobile phones and malaria: modeling human and parasite travel. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697114/
+
 [7] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546766/
+
 
