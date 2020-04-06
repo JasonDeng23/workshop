@@ -14,3 +14,4 @@ Jason Deng
 ### Formal Papers 
 
 1. [Annotated Bibliography](https://taegonjd.github.io/workshop/assignment_one) (Feb 23)
+2. [Literature Review](https://taegonjd.github.io/workshop/assignment2) (Apr 6)
