@@ -1,7 +1,7 @@
-<p align="center">
 # Assignment 2: Literature Review
 
-## Call Data Records and Gravity Models for Improved Epidemiology of Vector-borne Illnesses throughout Southeast Asia
+## Call Data Records and Gravity Models for Improved Epidemiology of Vector-borne Illnesses throughout Southeast Asiap
+
 Jason Deng
 
 April 6, 2020
@@ -40,7 +40,7 @@ with a function f(R) to map risk indexes. Using this, the researchers found out 
 ### Discussion
 
 After my research, I feel like I have a better understanding of what agents and factors go into vector-borne illness in relation to human mobility. Call data records and gravity models that were mentioned in the previous section have huge potential when it comes to epidemiology and control of vector-borne illnesses. Because human mobility is somewhat difficult to decisively model due to many varying factors and agents, CDRs allow us to compensate for that by skipping the theory and heading straight into analysis and results. In the Kenya Study by Buckee et al, they mentioned how utilizing CDRs can allow researchers to see unprecedented insights into human mobility and its relation to malaria transmission. The gap I found was how call-data records were not used as much as other data in Southeast asia epidemiology. Studies mainly relied on census data, followed up by rendering with GIS technology in order to generate visuals. While this method is by no means ineffective, census data sometimes may be outdated in some countries like Cambodia. Even the most updated census data can not provide the day-to-day constant updates that call-data records can, and in a situation like virus control and prevention, speed and efficiency becomes top priority. Additionally, gravity models can be utilized more in epidemiology of vector-borne illnesses in the SEA region as it allows for a better prediction of risk or relations between various agents while not requiring as big of a data set as say a national census. GMs can be used with a small proportion of data, then scaled up with prediction models. My proposed research questions would be are gravity models effective as a means for spatial epidemiology predictions for vector-borne diseases and could call-data records make census data redundant as a means for combatting forms of vector-borne illnesses. 
-</p>
+
 ### References
 
 [1] https://www.prb.org/malariabasicsglobalimpactandactions/ cite it
