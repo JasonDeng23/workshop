@@ -8,7 +8,7 @@ April 6, 2020
 
 ### Introduction
 
-The purpose of this research is to explore and analyze methods of data science and sources of data that are currently not efficiently utilized enough for epidemiology of vector-borne illnesses throughout Southeast Asia (SEA). Much of the current analysis of vector-borne illnesses in SEA relies on collecting surveys or specific census data. Oftentimes, the data may be outdated or not fully comprehensive as a result of various low income nations who lack prioritization for such. Instead, a more contemporary source of data can be used: cell phones. As mobile phone adoption and usage continues to rise in lower-income nations, we are granted a unique way to track millions of individuals. Call-data records (CDRs) allow people to receive massive amounts of real time, accurate data which can then be used to analyze or generate patterns for whatever the situation requires. Additionally, gravity models allow for a different way of modeling and estimating human movement and how diseases spread.  My goal ultimately is to see how utilizing these techniques will provide a more contemporary and different way of tracking and predicting vector-borne illnesses. This work will build upon the already established research methodology of census data gathering and using GIS technology to produce relevant visuals. [1,2,3,4,5,6,7,8,9,10]
+The purpose of this research is to explore and analyze methods of data science and sources of data that are currently not efficiently utilized enough for epidemiology of vector-borne illnesses throughout Southeast Asia (SEA). Much of the current analysis of vector-borne illnesses in SEA relies on collecting surveys or specific census data. Oftentimes, the data may be outdated or not fully comprehensive as a result of various low income nations who lack prioritization for such. Instead, a more contemporary source of data can be used: cell phones. As mobile phone adoption and usage continues to rise in lower-income nations, we are granted a unique way to track millions of individuals. Call-data records (CDRs) allow people to receive massive amounts of real time, accurate data which can then be used to analyze or generate patterns for whatever the situation requires. Additionally, gravity models allow for a different way of modeling and estimating human movement and how diseases spread.  My goal ultimately is to see how utilizing these techniques will provide a more contemporary and different way of tracking and predicting vector-borne illnesses. This work will build upon the already established research methodology of census data gathering and using GIS technology to produce relevant visuals. [8,9,10]
 
 ### Human Development Topic
 
@@ -49,18 +49,25 @@ After my research, I feel like I have a better understanding of what agents and 
 
 ### References
 
-[1] https://www.prb.org/malariabasicsglobalimpactandactions/ cite it
+[1] Malaria Basics: Global Impact and Actions. (n.d.). Retrieved from https://www.prb.org/malariabasicsglobalimpactandactions/
 
-[2]https://www.cdc.gov/malaria/malaria_worldwide/impact.html
+[2] CDC - Malaria - Malaria Worldwide - Impact of Malaria. (2020, February 25). Retrieved from https://www.cdc.gov/malaria/malaria_worldwide/impact.html
 
 [3]  Paul, M. C., Goutard, F. L., Roulleau, F., Holl, D., Thanapongtharm, W., Roger, F. L., & Tran,   A. (2016). Quantitative assessment of a spatial multicriteria model for highly pathogenic avian influenza H5N1 in Thailand, and application in Cambodia. Scientific reports, 6, 31096. https://doi.org/10.1038/srep31096
 
-[4]https://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases
+[4]Vector-borne diseases. (n.d.). Retrieved from https://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases
 
 [5] Guyant, P., Canavati, S.E., Chea, N. et al. Malar J 14, 252 (2015). Malaria and the mobile and migrant population in Cambodia: a population movement framework to inform strategies for malaria control and elimination. https://doi.org/10.1186/s12936-015-0773-5
 
 [6]Buckee, C. O., Wesolowski, A., Eagle, N. N., Hansen, E., & Snow, R. W. (2013). Mobile phones and malaria: modeling human and parasite travel. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697114/
 
-[7] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546766/
+[7]Barrios, J. M., Verstraeten, W. W., Maes, P., Aerts, J.-M., Farifteh, J., & Coppin, P. (2012, November 30). Using the gravity model to estimate the spatial spread of vector-borne diseases. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546766/
+
+[8] Jeefoo, P., Tripathi, N. K., & Souris, M. (2010). Spatio-Temporal Diffusion Pattern and Hotspot Detection of Dengue in Chachoengsao Province, Thailand. International Journal of Environmental Research and Public Health, 8(1), 51–74. doi: 10.3390/ijerph8010051
+
+[9] Khilji, S. U. S., Rudge, J. W., Drake, T., Chavez, I., Borin, K., Touch, S., & Coker, R. (2013). Distribution of selected healthcare resources for influenza pandemic response in Cambodia. International Journal for Equity in Health, 12(1), 82. doi: 10.1186/1475-9276-12-82
+
+[10]Cox, J., Sovannaroth, S., Dy Soley, L., Ngor, P., Mellor, S., & Roca-Feltrer, A. (2014). Novel approaches to risk stratification to support malaria elimination: an example from Cambodia. Malaria journal, 13, 371. https://doi.org/10.1186/1475-2875-13-371
+
 
 
