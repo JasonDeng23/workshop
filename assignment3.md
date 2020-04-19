@@ -20,9 +20,8 @@ This research question in a larger sense is explanatory as it looks to explain h
 
 In the article by Barriors et al [3], the team of researchers sought to use a gravity model that could adequately search for the interactions between various spatial entities and produce an estimation of disease risk. It is derived from Newton’s Law of Universal Gravitation, which describes how there exists a force that attracts any two objects. This equation, as seen below, has found a place for modeling other domains such as transportation networks, migration flows, and more. In essence, there exists a relation between two arbitrary variables so long as the correlation is assumed or implied. 
 
-<p align="center">
 ![Newton's Law of Universal Gravitation](NEWTON.png)
-</p>
+
 Figure 1.  Newton's law of gravitation, where mi and mj are the different masses of the two associated objects and dij is the inverse proportional to the square distance separating them. aij is the resultant force, or “relation” between the two objects. 
 
 The vector-borne illnesses the researchers were seeking to model were nephropathia epidemica (NE) and Lyme borreliosis (LB). Both NE and LB are vector-borne diseases, and had seen an abnormal rise of cases in Belgium. The carriers of NE and LB respectively are the bank vole Myodes glareolus and the tick Ixodes ricinus. These creatures both live in the well distributed vegetated areas throughout the country, bordering many urban areas as well. Thus, the researchers sought to create a gravity model equation that could find the relation of urban areas and vegetated areas with the risk of NE and LB. The formulation of the gravity model used in their study looked like this: 
