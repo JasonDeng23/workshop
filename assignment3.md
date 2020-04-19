@@ -58,7 +58,7 @@ Figure 3. Final GM equations as well as map representations of the modelled EBE 
 
 Utilizing call data records is crucial in being able to update information about human mobility. In a study done by Buckee et al. [2], the researchers sought to understand how human movement affects parasite transmission with malaria in Kenya. Each time a call is made, the call data is sent to a nearby cell tower, which stores information such as the caller ID, the receiver of the call, the date and time the call was made, the duration of the call, and what cell tower is the CDR stored at. A cell towers service area is around 1-3 kilometers in radius, which provides a good approximation of the location of the caller. The more cell towers in a vicinity, the more precise the location gets. Thus, in a densely populated urban area such as a big city, CDRs can be as precise as estimating a person’s location down to a city block. With CDRs and locations of all the cell towers throughout Kenya displayed in various data layers, Buckee et al. layered parasite rate maps on top to highlight the correlations between the two, as shown in the figure below. 
 
-![Layers of population, CDR towers, and parasite maps](CDRLayers.jpg)
+![Layers of population, CDR towers, and parasite maps](CDRlayers.jpg)
 
 Figure 4. A) The population density of Kenya. B) Human settlements in Kenya C) The parasite rate in Kenya D) The location of mobile phone tower in Kenya overlaid on a settlement and parasite rate maps
 
