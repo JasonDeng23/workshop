@@ -15,3 +15,4 @@ Jason Deng
 
 1. [Annotated Bibliography](https://taegonjd.github.io/workshop/assignment_one) (Feb 23)
 2. [Literature Review](https://taegonjd.github.io/workshop/assignment2) (Apr 6)
+2. [Methodology Investigation](https://taegonjd.github.io/workshop/assignment3) (Apr 19)
