@@ -16,3 +16,5 @@ Jason Deng
 1. [Annotated Bibliography](https://JasonDeng23.github.io/workshop/assignment_one) (Feb 23)
 2. [Literature Review](https://JasonDeng23.github.io/workshop/assignment2) (Apr 6)
 3. [Methodology Investigation](https://JasonDeng23.github.io/workshop/assignment3) (Apr 19)
+
+### Remote Essay
